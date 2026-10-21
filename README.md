@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there 👋, I'm Maurício
 
-<!--
-**Maumau230/Maumau230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at ISEC (Portugal) with a strong foundation in both Full-Stack development and low-level system programming. I enjoy building scalable backend systems, interactive web applications, and exploring AI integrations.
 
-Here are some ideas to get you started:
+Currently open to **remote junior roles and international opportunities**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+**Backend & Systems:**
+- C#, C++, C, Java
+
+**Frontend & Web:**
+- JavaScript, React, HTML, CSS
+- .NET 8 MAUI, Blazor Hybrid
+
+**Databases:**
+- SQL, Entity Framework Core
+
+**AI & Emerging Tech:**
+- Microsoft Semantic Kernel, Local LLMs (Ollama), ONNX
+
+---
+
+### 🚀 Featured Projects
+-
+-
+
+---
+
+📫 **Connect with me:**
+- LinkedIn: [Your Profile Link]

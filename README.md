@@ -30,4 +30,4 @@ Currently open to **remote junior roles and international opportunities**.
 ---
 
 📫 **Connect with me:**
-- LinkedIn: [Your Profile Link]
+- LinkedIn: 
